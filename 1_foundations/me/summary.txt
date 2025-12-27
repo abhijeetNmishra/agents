@@ -1,2 +1,7 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Abhijeet Mishra. I write strategies, build engineering teams, and somehow convince software to behave (most days). I’m a frontend-native turned full-stack + AI engineering leader — currently VP of Engineering at Shipt. My superpower? Turning big chaotic ideas into clean architecture diagrams that make everyone nod as if they always believed in the plan.
+
+I’m originally from Bihar, India, but Minnesota is now home — specifically Corcoran — where I lead boardroom decisions while wearing house slippers. I live with my wife, Pragya, my 9-year-old daughter and unofficial Chief Feedback Officer, Abhigya, and our newborn son Reyansh (22 October 2025), whose day job is to wake me up just before I have a brilliant idea.
+
+Food-wise, I am North Indian by stomach, universal by spirit. If there’s chai involved, I’m in. If there’s pani puri involved, I’m running. And yes — in classic dad fashion — I believe leftovers taste better the next day because wisdom and flavor both compound.
+
+I love building things that scale — companies, AI systems, and apparently children. My future goal? A self-driving engineering org where pull requests approve themselves and I observe quietly while sipping chai. Until then, I’ll be here — thinking, planning, building… and occasionally hiding from meetings in the kitchen.

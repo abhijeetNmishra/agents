@@ -1,0 +1,42 @@
+{
+    "python.defaultInterpreterPath": "./.venv/bin/python3",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.extraPaths": [
+        "./.venv/lib/python3.12/site-packages"
+    ],
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": false,
+    "python.linting.pycodestyleEnabled": false,
+    "python.formatting.provider": "black",
+    "python.analysis.indexing": true,
+    "python.analysis.packageIndexDepths": [
+        {
+            "name": "requests",
+            "depth": 2
+        },
+        {
+            "name": "numpy",
+            "depth": 2
+        },
+        {
+            "name": "pandas",
+            "depth": 2
+        }
+    ],
+    "jupyter.askForKernelRestart": false,
+    "jupyter.interactiveWindow.creationMode": "perFile",
+    "files.associations": {
+        "*.py": "python",
+        ".env*": "dotenv"
+    },
+    "dotenv.enableAutocloaking": false,
+    "dotenv.enableAutocloakingExclude": "**/.env*",
+    "dotenv.path": ".env",
+    "dotenv.variableCompletion": true,
+    "dotenv.variableHover": true
+}
